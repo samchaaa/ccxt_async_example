@@ -11,6 +11,6 @@ Replace path to your API key in main.py (or use os.environ).
 
 `python3 main.py binance:BTCUSDT binance:ETHUSDT 1000`
 
-First leg = buy leg
-Second leg = sell leg
-Notional amount for each in USDT
+- First leg = buy leg
+- Second leg = sell leg
+- Notional amount for each in USDT
